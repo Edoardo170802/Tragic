@@ -5,8 +5,8 @@ Aggiungere a questo README eventuali estensioni al progetto assegnato, e scelte 
 
 
 
-Nome:
+Nome:Edoardo  
 
-Cognome:
+Cognome:Loreti    
 
-Matricola:
+Matricola:347272
